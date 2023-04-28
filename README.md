@@ -129,6 +129,20 @@ https://accounts.spotify.com/authorize?client_id={CLIENT_ID}&response_type=code&
 | `theme`   | `light` | `light`, `dark` |
 | `rainbow` | `false` | `false`, `true` |
 
+<a href="https://github.com/tthn0/Spotify-Readme">
+  <img src="https://listning-to.vercel.app/api?theme=dark" alt="Current Spotify Song">
+</a>
+
+![Preview](https://jusjos.vercel.app/api?theme=dark)
+<a href="https://github.com/jusjos/Spotify-Readme">
+  <img src="https://https://listningto.vercel.app//api" alt="Current Spotify Song">
+</a>
+
+&nbsp;<div align="center">
+  [![Spotify](https://listningto.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31hwcqsifxpl57olnj2yqq6iijiq)
+</div>
+
+[![Spotify](https://listningto.vercel.app/api/spotify)](https://open.spotify.com/user/31hwcqsifxpl57olnj2yqq6iijiq)
 ## Note
 
 This wasn't a completely original idea. This was inspired by <a href="https://github.com/novatorem/novatorem">novatorem's project</a> that was supposed to be for me only. Since others have asked for the source code, I decided to make this a public repo. I also incorporated the latest two PR's from the orignal project into this one and made it easy to customize!
